@@ -1,6 +1,6 @@
 cask "mailvault-pro" do
-  version "0.2.1"
-  sha256 "c8e81a5202a5a5f52a889a82342357a3c8f92a88ea0ed4c7cdba39dd9c69d88e"
+  version "0.2.2"
+  sha256 "40e8fd2e1314cd303d0d7407272c2e8ed77745affd82404e697df7d0643aeaa9"
 
   url "https://github.com/khaledsabae/mailvault/releases/download/v#{version}/MailVaultPro-#{version}-macOS-arm64.dmg"
   name "MailVault Pro"
